@@ -2,7 +2,7 @@
 
 I'm S0lSec/PraiseSun or Lewis
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0lSec&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S0lSec&show_icons=true&theme=radical)
 
 ### I am currently
 - Studying Cyber Security at TAFE
