@@ -15,6 +15,4 @@ I'm S0lSec/PraiseSun or Lewis
 - I enjoy solving random crackmes and CTFs 
 
 ## Contacts
-<p align="center">
-  <img src="https://dsc-readme.tsuni.dev/api/user/964887596754944100?width=400">
-</p>
+[![Discord](Discird)
