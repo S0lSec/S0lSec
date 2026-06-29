@@ -2,14 +2,21 @@
 
 I'm S0lSec/PraiseSun or Lewis
 
-# Working On:
+### I am currently
 - Studying Cyber Security at TAFE
 - Completing HTB SOC Analysis course
 - Setting up my home lab to practice SOC Analysis, AD DS and Digital Forensics
 
-# Interests:
+### About me
 - Besides Cyber Security, I also love cars, pool and reading
 - I play games such as Dark Souls, Warframe and Elden Ring
+- I enjoy solving random crackmes and CTFs 
+
+## Contacts
+<p align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</p>
 
 <!--
 **S0lSec/S0lSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
