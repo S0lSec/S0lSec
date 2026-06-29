@@ -13,6 +13,3 @@ I'm S0lSec/PraiseSun or Lewis
 - Besides Cyber Security, I also love cars, pool and reading
 - I play games such as Dark Souls, Warframe and Elden Ring
 - I enjoy solving random crackmes and CTFs 
-
-## Contacts
-[![Discord](Discird)
