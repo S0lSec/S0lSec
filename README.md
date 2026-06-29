@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hello!
+
+I'm S0lSec/PraiseSun or Lewis
+
+# Working On:
+- Studying Cyber Security at TAFE
+- Completing HTB SOC Analysis course
+- Setting up my home lab to practice SOC Analysis, AD DS and Digital Forensics
+
+# Interests:
+- Besides Cyber Security, I also love cars, pool and reading
+- I play games such as Dark Souls, Warframe and Elden Ring
 
 <!--
 **S0lSec/S0lSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
