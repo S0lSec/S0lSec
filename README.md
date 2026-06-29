@@ -2,6 +2,8 @@
 
 I'm S0lSec/PraiseSun or Lewis
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=S0lSec&show_icons=true)
+
 ### I am currently
 - Studying Cyber Security at TAFE
 - Completing HTB SOC Analysis course
@@ -13,10 +15,6 @@ I'm S0lSec/PraiseSun or Lewis
 - I enjoy solving random crackmes and CTFs 
 
 ## Contacts
-<p align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</p>
 
 <!--
 **S0lSec/S0lSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
